@@ -1,0 +1,126 @@
+#foto{
+    margin-block: 10px 0px 10px;
+}
+
+#icon{
+    opacity: 1;
+}
+
+.full {
+    float:left;
+}
+.bar {
+    padding-left: 25px;
+}
+
+.caixa{
+    margin-left: auto;
+    margin-right: auto;
+    margin:auto
+}
+
+.centro{
+    position: absolute;
+    margin: 0;
+    top: 52%;
+    left: 42%;
+    /*right:25%;
+    bottom:25%*/
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+}
+
+.-centro{
+    position: absolute;
+    margin: 0;
+    /*top: 55%;
+    left: 50%;*/
+    right:61%;
+    bottom: 27%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+}
+
+.mark {background-color:#00bfff; color:#000000;}
+
+.centro1{
+    position: absolute;
+    margin: 0;
+    top: 303%;
+    left: 42%;
+    /*right:25%;
+    bottom:25%*/
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+}
+
+.-centro1{
+    position: absolute;
+    margin: 0;
+    /*top: 55%;
+    left: 50%;*/
+    right:83%;
+    bottom:-225%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+}
+
+.centro2{
+    position: absolute;
+    margin: 0;
+    top: 563%;
+    left: 42%;
+    /*right:25%;
+    bottom:25%*/
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+}
+
+.-centro2{
+    position: absolute;
+    margin: 0;
+    /*top: 55%;
+    left: 50%;*/
+    right:83%;
+    bottom:-485%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+}
+
+.centro3{
+    position: absolute;
+    margin: 0;
+    top: 787%;
+    left: 45%;
+    /*right:25%;
+    bottom:25%*/
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+}
+
+.-centro3{
+    position: absolute;
+    margin: 0;
+    /*top: 55%;
+    left: 50%;*/
+    right: 88%;
+    bottom:-709%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 10px;
+}
