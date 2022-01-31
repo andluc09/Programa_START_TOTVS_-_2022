@@ -22,7 +22,7 @@
 .centro{
     position: absolute;
     margin: 0;
-    top: 52%;
+    top: 55%;
     left: 42%;
     /*right:25%;
     bottom:25%*/
@@ -38,7 +38,7 @@
     /*top: 55%;
     left: 50%;*/
     right:61%;
-    bottom: 27%;
+    bottom: 22%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -50,7 +50,7 @@
 .centro1{
     position: absolute;
     margin: 0;
-    top: 303%;
+    top: 325%;
     left: 42%;
     /*right:25%;
     bottom:25%*/
@@ -66,7 +66,7 @@
     /*top: 55%;
     left: 50%;*/
     right:83%;
-    bottom:-225%;
+    bottom:-250%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -76,7 +76,7 @@
 .centro2{
     position: absolute;
     margin: 0;
-    top: 563%;
+    top: 615%;
     left: 42%;
     /*right:25%;
     bottom:25%*/
@@ -92,7 +92,7 @@
     /*top: 55%;
     left: 50%;*/
     right:83%;
-    bottom:-485%;
+    bottom:-539%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -102,7 +102,7 @@
 .centro3{
     position: absolute;
     margin: 0;
-    top: 787%;
+    top: 867%;
     left: 45%;
     /*right:25%;
     bottom:25%*/
@@ -118,7 +118,7 @@
     /*top: 55%;
     left: 50%;*/
     right: 88%;
-    bottom:-709%;
+    bottom:-793%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
     text-align: center;
